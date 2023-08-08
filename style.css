@@ -1,0 +1,31 @@
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.head{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.move-btn{
+    background-color: inherit;
+    border: 3px solid white;
+    border-radius: 100px;
+    padding: 30px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.move-icon{
+    height: 50px;
+    width: 50px;
+}
+
+.reset-btn{
+    padding:5px 15px 5px 15px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
